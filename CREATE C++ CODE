@@ -1,1 +1,9 @@
+#include <iostream>
+#include <string>
+#include <cctype>
 
+using namespace std;
+
+string getMorse(char letter)
+{
+    switch(letter)
