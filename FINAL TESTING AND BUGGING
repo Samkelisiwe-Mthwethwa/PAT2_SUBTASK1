@@ -1,1 +1,17 @@
 
+Enter a short message: HELLO WORLD
+
+Output Morse code:
+H: ....
+E: .
+L: .-..
+L: .-..
+O: ---
+W: .--
+O: ---
+R: .-.
+L: .-..
+D: -..
+
+Full Morse Code:
+....   .   .-..   .-..   ---      .--   ---   .-.   .-..   -..   
